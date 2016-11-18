@@ -12,23 +12,25 @@ Learn SQL query fundamentals by working through bite-sized tutorials on [SQLBolt
 ## Specifications
 
 **SQL Foundations**
-- [ ] Work through the exercises on [SQLBolt](https://sqlbolt.com/)
-- [ ] Work through the exercises under the "Tutorials: Learn SQL in stages" section on [SQLTeaching] (https://www.sqlteaching.com/)
+- [x] Work through the exercises on [SQLBolt](https://sqlbolt.com/)
+- [x] Work through the exercises under the "Tutorials: Learn SQL in stages" section on [SQLTeaching] (https://www.sqlteaching.com/)
 
 
 
 ### Required
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
+- [x] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Quality Rubric
-- [ ] Successful completion of SQLBolt exercises
-- [ ] Successful completion of SQLTeaching exercises
+- [x] Successful completion of SQLBolt exercises
+- [x] Successful completion of SQLTeaching exercises
 
 
 
 ##Stretch Goals
 **SQL Foundations Practice Exercises**
-- [ ]  Create an actual database and simple front end to update your database. [Here](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WAqKX5MrKRt) is a tutorial for how to do this (thanks @nodatall!)
+- [x]  Create an actual database and simple front end to update your database. [Here](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WAqKX5MrKRt) is a tutorial for how to do this (thanks @nodatall!)
+
+Link to our localhost (for presentation) http://localhost:3000/api/puppies/
 
 - [ ] [SQLZOO](http://sqlzoo.net/) to yield the desired data.
 - [ ] [LeetCode](https://leetcode.com/problemset/database/)
